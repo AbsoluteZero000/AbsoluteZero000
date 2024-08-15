@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-![AbsoluteZero000's GitHub stats](https://github-readme-stats.vercel.app/api?username=AbsoluteZero000&show_icons=true&theme=transparent)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AbsoluteZero000&layout=compact)
 
 Here are some ideas to get you started:
 
