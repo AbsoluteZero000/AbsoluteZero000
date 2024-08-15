@@ -24,8 +24,3 @@ I'm a passionate **Software Engineer** with a strong foundation in coding, softw
 ---
 [![](https://visitcount.itsvg.in/api?id=AbsoluteZero000&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
----
-
-This version adds a welcoming introduction and the Rust language to your tech stack while keeping the design cohesive and engaging.
