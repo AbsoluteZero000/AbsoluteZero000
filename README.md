@@ -18,9 +18,6 @@ I'm a passionate **Software Engineer** with a strong foundation in coding, softw
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=AbsoluteZero000&theme=dracula&no-frame=false&no-bg=true&margin-w=4)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=AbsoluteZero000&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
 ---
 [![](https://visitcount.itsvg.in/api?id=AbsoluteZero000&icon=0&color=0)](https://visitcount.itsvg.in)
 
