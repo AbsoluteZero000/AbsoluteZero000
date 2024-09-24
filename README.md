@@ -1,9 +1,10 @@
-
 # Hi there 👋 I'm Ahmed Wael Wanas
 
 I'm a passionate **Software Engineer** with a strong foundation in coding, software design, and development. I love exploring new technologies and continuously improving my skills. My journey in software engineering has led me to work with a diverse range of languages and frameworks, and I'm always eager to take on new challenges.
 
 ![Software Engineer](https://img.shields.io/badge/Software_Engineer-%23000000.svg?style=for-the-badge&logo=dev.to&logoColor=white)
+
+![I use Neovim btw](https://i.imgflip.com/7b9owu.jpg)
 
 ## 🌐 Connect with Me:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discordapp.com/users/1142463596257886208) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ahmed-wael-12318021a)
