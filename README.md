@@ -6,8 +6,8 @@ I'm a passionate and driven **Software Engineer** with a strong foundation in co
 
 ## 🌐 Connect with Me
 
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discordapp.com/users/1142463596257886208)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ahmed-wael-12318021a)
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/1142463596257886208)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ahmed-wael-12318021a)
 
 ## 💻 Tech Stack
 
@@ -25,6 +25,7 @@ I'm proficient in a wide range of programming languages and technologies, includ
 
 I'm also experienced in working with various frameworks and technologies, including:
 
+![AWS](https://img.shields.io/badge/Amazon%20AWS-%23232F3E.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
 ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
@@ -44,3 +45,5 @@ I'm also experienced in working with various frameworks and technologies, includ
 ## 🎉 Visitor Count
 
 [![](https://visitcount.itsvg.in/api?id=AbsoluteZero000&icon=0&color=0)](https://visitcount.itsvg.in)
+
+I use NeoVim btw
