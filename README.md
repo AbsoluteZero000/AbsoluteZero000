@@ -11,7 +11,7 @@ I'm a passionate and driven **Software Engineer** with a strong foundation in co
 
 ## 💻 Tech Stack
 
-I'm proficient in a wide range of programming languages and technologies, including:
+I'm proficient in a wide range of programming languages, including:
 
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
@@ -49,4 +49,4 @@ I'm also experienced in working with various frameworks and technologies, includ
 
 [![](https://visitcount.itsvg.in/api?id=AbsoluteZero000&icon=0&color=0)](https://visitcount.itsvg.in)
 
-I use NeoVim btw
+> I use Neovim btw 💻
