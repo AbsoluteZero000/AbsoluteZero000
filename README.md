@@ -42,9 +42,11 @@ I'm also experienced in working with various frameworks and technologies, includ
 
 ## 🏆 GitHub Achievements
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=AbsoluteZero000&theme=dark&hide_border=false)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=AbsoluteZero000&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-![](https://github-profile-trophy.vercel.app/?username=AbsoluteZero000&theme=dracula&no-frame=false&no-bg=true&margin-w=4)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbsoluteZero000&theme=dracula&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Most Used Languages" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AbsoluteZero000&theme=dracula&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-profile-trophy.vercel.app/?username=AbsoluteZero000&theme=dracula&no-frame=true&row=1&column=7" alt="GitHub Profile Trophy" />
+</div>
 
 ## 🎉 Visitor Count
 
