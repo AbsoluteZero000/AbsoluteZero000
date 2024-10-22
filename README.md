@@ -52,4 +52,4 @@ I'm also experienced in working with various frameworks and technologies, includ
 
 [![](https://visitcount.itsvg.in/api?id=AbsoluteZero000&icon=0&color=0)](https://visitcount.itsvg.in)
 
-> I use Neovim btw 💻
+> Neovim btw 💻
