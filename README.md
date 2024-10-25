@@ -4,6 +4,7 @@ I'm a passionate and driven **Software Engineer** with a strong foundation in co
 
 ![Software Engineer](https://img.shields.io/badge/Software_Engineer-%23000000.svg?style=for-the-badge&logo=dev.to&logoColor=white)
 
+
 ## 🌐 Connect with Me
 
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/1142463596257886208)
