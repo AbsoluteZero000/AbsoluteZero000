@@ -1,6 +1,6 @@
 # Hi there, I'm Ahmed Wael Wanas 👋
 
-I'm a passionate and driven **Software Engineer** with a strong foundation in coding, software design, and development. I love exploring new technologies and continuously improving my skills. My journey in software engineering has led me to work with a diverse range of languages and frameworks, and I'm always eager to take on new challenges.
+I'm a passionate and driven **Software Engineer** with a strong foundation in coding, software security, and development. I love exploring new technologies and continuously improving my skills. My journey in software engineering has led me to work with a diverse range of languages and frameworks, and I'm always eager to take on new challenges.
 
 ![Software Engineer](https://img.shields.io/badge/Software_Engineer-%23000000.svg?style=for-the-badge&logo=dev.to&logoColor=white)
 
